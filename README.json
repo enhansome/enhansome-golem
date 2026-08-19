@@ -1,52 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Golem Projects"
-    },
-    {
-      "description": "We want to extend the capabilities of Golem Network for GPU workloads. Project status is available on the pinned messages of the dedicated GPU Provider channel on our Discord. You can find it under #golem-projects.",
-      "items": [],
-      "title": "GPU Provider"
-    },
-    {
-      "description": "Ray on Golem is an exciting integration with Ray, a distributed computing framework, to provide an easier way of accessing the Golem Network for Python developers.",
-      "items": [],
-      "title": "Ray on Golem"
-    },
-    {
-      "description": "golem-js is a library and set of developer tools and docs that are aimed to enable developers to create Golem applications running in Node.js or browser context.",
-      "items": [],
-      "title": "golem-js - the JS SDK from Golem"
-    },
-    {
-      "description": "Jupyter on Golem is a JupyterLab Python kernel that empowers you to run your Python Notebooks using the decentralized resources available on the Golem Network.",
-      "items": [],
-      "title": "Jupyter on Golem"
-    },
-    {
-      "description": "In close collaboration with Reality Games, we've developed a service that activates Golem's providers for rendering personalized building animations as a (web2) proof-of-ownership for ERC-1155 tokens. Learn more here",
-      "items": [],
-      "title": "Rendering on Golem"
-    },
-    {
-      "description": "The Reputation System goal is to address the challenges of trust and reliability in the network where anyone can participate as a provider or requestor without any sort of identification. The system aims to establish a framework of trust, ensuring secure and reliable interactions between participants on the network.",
-      "items": [],
-      "title": "Reputation System"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Ecosystem"
-    },
-    {
-      "description": "Emeth specializes in DeFi (Decentralized Finance) portfolio management and blockchain automations. It leverages Golem's technology to offer tools for automation and simplification of managing DeFi investments. The platform focuses on enhancing the ease and efficiency of operating within the DeFi space. It combines user-friendly interfaces with sophisticated analytics, catering to the needs of both novice and experienced DeFi users.",
-      "items": [],
-      "title": "Blockchain Automations (aka Emeth.xyz)"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -55,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 363286808,
             "language": "Shell",
             "last_commit": "2023-02-10T12:12:04Z",
             "owner": "MarijnStevens",
@@ -69,829 +25,875 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 432824933,
             "language": "Python",
             "last_commit": "2024-03-06T06:08:46Z",
             "owner": "jedbrooke",
             "repo": "golem-price-updater",
             "stars": 5
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Golem Provider dashboard",
+              "description": "ReactJS dashboard made to quickly gather status from your provider nodes without having to SSH into them.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 349884309,
+                "language": "TypeScript",
+                "last_commit": "2021-05-24T07:00:18Z",
+                "owner": "vciancio",
+                "repo": "golem-dashboard",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Golem Provider dashboard backend / GolemBar",
+              "description": "Flask backend that collects the data from the provider that's then used with the dashboard project above.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 349924886,
+                "language": "Python",
+                "last_commit": "2021-06-13T03:27:34Z",
+                "owner": "vciancio",
+                "repo": "golem-node-server",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Monitoring"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Golem Provider Node",
+              "description": "Docker version of a node to help you get started running as a provider in a Docker container quick.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 322129277,
+                "language": "Dockerfile",
+                "last_commit": "2026-08-19T03:50:02Z",
+                "owner": "alexandre-abrioux",
+                "repo": "golem-node",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Automatic Golem",
+              "description": "Setup a Golem Provider with simple instructions and logs guiding you through the process.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353158329,
+                "language": "Shell",
+                "last_commit": "2021-04-18T23:12:12Z",
+                "owner": "r34x",
+                "repo": "Automatic-Golem",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Golem Provider node",
+              "description": "Fork of Alxexandre-abrioux project above that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 354278640,
+                "language": "Python",
+                "last_commit": "2022-04-09T08:44:05Z",
+                "owner": "blue-notes-robot",
+                "repo": "golem-node",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Golem Provider Terraform",
+              "description": "Terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 327105637,
+                "language": "Shell",
+                "last_commit": "2021-01-06T00:07:13Z",
+                "owner": "nemani",
+                "repo": "golem-provider-terraform",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Provisioning"
         }
       ],
       "title": "Provider Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Golem Provider dashboard",
-          "description": "ReactJS dashboard made to quickly gather status from your provider nodes without having to SSH into them.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2021-05-24T07:00:18Z",
-            "owner": "vciancio",
-            "repo": "golem-dashboard",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golem Provider dashboard backend / GolemBar",
-          "description": "Flask backend that collects the data from the provider that's then used with the dashboard project above.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-06-13T03:27:34Z",
-            "owner": "vciancio",
-            "repo": "golem-node-server",
-            "stars": 2
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Golem Test Harness (Goth)",
+                  "description": "Tool with the purpose of speeding up your development process and making it more enjoyable for application creators.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 249806436,
+                    "language": "Python",
+                    "last_commit": "2026-01-08T06:17:52Z",
+                    "owner": "golemfactory",
+                    "repo": "goth",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Golem SLATE",
+                  "description": "Open source repository for Golem SLATE described in the above Apps section.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 321043410,
+                    "language": "SCSS",
+                    "last_commit": "2021-03-15T00:52:45Z",
+                    "owner": "DEUTSCHKLUB",
+                    "repo": "golem-slate",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Golem CI",
+                  "description": "Decentralized task pipeline.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 326974059,
+                    "language": "Python",
+                    "last_commit": "2021-01-07T21:18:42Z",
+                    "owner": "hhio618",
+                    "repo": "golem-ci",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ThorgPress",
+                  "description": "A tool to benchmark providers and unveil their true capabilities beyond what can be seen through the marketplace.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 491207931,
+                    "language": "Shell",
+                    "last_commit": "2022-06-19T18:21:37Z",
+                    "owner": "figurestudios",
+                    "repo": "thorgpress",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Testing"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Yagna httpx client",
+                  "description": "VPN usage on Yagna demonstrating communication with a provider-based HTTP server the way you communicate with any other HTTP server.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 366668613,
+                    "language": "Python",
+                    "last_commit": "2021-10-06T15:31:51Z",
+                    "owner": "golemfactory",
+                    "repo": "ya-httpx-client",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Golem Provider with network access",
+                  "description": "A requstor that acts as a http proxy for running providers, allowing them to access the wider internet.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 427528146,
+                    "language": "Python",
+                    "last_commit": "2021-11-28T03:45:58Z",
+                    "owner": "jedbrooke",
+                    "repo": "golem-network-requestor",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "VPN"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ChessOnGolem",
+                  "description": "Open source repository for Chess described in first Apps section. Includes React frontend for the 2 AI's playing against each other through the Golem backend.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 321377499,
+                    "language": "JavaScript",
+                    "last_commit": "2021-03-29T19:36:14Z",
+                    "owner": "warburg-pb",
+                    "repo": "ChessOnGolem",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Golem Fleet Battle Simulator",
+                  "description": "System for calculating the results of a battle between two opposing starship fleets. Used in the iOS game Rock Paper Frigate to determine the result of PvP fleet battles.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 373719308,
+                    "language": "Python",
+                    "last_commit": "2021-06-29T23:48:10Z",
+                    "owner": "UnfortuN8",
+                    "repo": "Golem-Fleet-Battle-Simulator",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Golem Sudoku",
+                  "description": "Game of Sudoku with size variants.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 327071877,
+                    "language": "JavaScript",
+                    "last_commit": "2021-01-12T06:17:22Z",
+                    "owner": "Dodecane",
+                    "repo": "golem-sudoku",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "HSOG-requester",
+                  "description": "Helps the HearthStone community in the design and building of decks by running a large number of simulated games.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 355702686,
+                    "language": "TypeScript",
+                    "last_commit": "2022-01-07T02:43:32Z",
+                    "owner": "ChrisHelmsC",
+                    "repo": "hsog-requestor",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Games"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Golocity",
+                  "description": "Build and deploy your dockerized applications on the Golem Network in just two commands.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 388653056,
+                    "language": "Python",
+                    "last_commit": "2021-07-30T00:37:43Z",
+                    "owner": "davidstyers",
+                    "repo": "golocity",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Golem Completion Engine",
+                  "description": "Enhanced bash completion engine that extends built-in completions by providing contextual help for golemsp and yagna.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 411450111,
+                    "language": "Shell",
+                    "last_commit": "2026-02-12T23:53:00Z",
+                    "owner": "krunch3r76",
+                    "repo": "gc__enhanced_completion",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "gc__push_image",
+                  "description": "A CLI tool that publishes the GVMI image to Skynet, making users able to change the image_url without self-hosting/giving up control.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 504952254,
+                    "language": "Python",
+                    "last_commit": "2022-06-30T13:42:50Z",
+                    "owner": "figurestudios",
+                    "repo": "gc__push_image",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "CLI Tools"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Golem Transcoding requestor",
+                  "description": "React + Spring based webapp accepting video files as input and transcoding these files into different formats.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 314571333,
+                    "language": "Java",
+                    "last_commit": "2020-11-25T17:29:36Z",
+                    "owner": "tokrug",
+                    "repo": "golem-transcoding",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Golem Auto Editor",
+                  "description": "Run Auto-Editor to automatically perform some video editing functions, offload the video processing to Golem.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 411878029,
+                    "language": "Python",
+                    "last_commit": "2022-06-25T02:41:39Z",
+                    "owner": "jedbrooke",
+                    "repo": "golem-auto-editor",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Golem Network Video Transcoder",
+                  "description": "Sample app to transcode videos. Select your transcoding profile and then upload your videos.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 305540541,
+                    "language": "HTML",
+                    "last_commit": "2020-10-19T23:52:15Z",
+                    "owner": "DerekJarvis",
+                    "repo": "golem-video",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Video Transcoding and Editing"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Flan",
+                  "description": "Tool for entrepreneurs that provide customized analysis of millions of worldwide trade value records giving them a bold guideline about what sectors they would need to take more attention to.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 326324998,
+                    "language": "Python",
+                    "last_commit": "2021-01-06T17:35:35Z",
+                    "owner": "nestorbonilla",
+                    "repo": "flan",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Full-Text Search Engine",
+                  "description": "A search engine service that goes through text files.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 390024268,
+                    "language": "Python",
+                    "last_commit": "2021-08-22T21:25:16Z",
+                    "owner": "niklr",
+                    "repo": "golem-fulltext-search",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Golem COVID",
+                  "description": "Creates images of new deaths per million related to COVID. After all images generated, it will gather them and create a gif.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 306740444,
+                    "language": "Python",
+                    "last_commit": "2020-10-23T20:33:31Z",
+                    "owner": "iRhonin",
+                    "repo": "golem-covid",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Golem Parallel Matplotlib",
+                  "description": "Various statistical analyses are performed on circadian rhythm measurements in human test subjects.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 306814020,
+                    "language": "Python",
+                    "last_commit": "2020-10-24T20:13:50Z",
+                    "owner": "CoeJoder",
+                    "repo": "golem-parallel-matplotlib",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Golem Lorenz-attractor",
+                  "description": "A system of three coupled, first-order, nonlinear differential equations which describe the trajectory of a particle through time.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 306961324,
+                    "language": "Python",
+                    "last_commit": "2020-11-06T09:53:44Z",
+                    "owner": "hhio618",
+                    "repo": "golem-lorenz-attractor",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Golem Geomandel",
+                  "description": "Python script for generating sequences of Mandelbrot images centered on a single point and with zoom increasing in each image.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 308162885,
+                    "language": "Python",
+                    "last_commit": "2020-10-31T12:38:25Z",
+                    "owner": "tokrug",
+                    "repo": "golem-geomandel",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Data Analysis"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Golem Array",
+                  "description": "Antenna array design and simulation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 323645610,
+                    "language": "Python",
+                    "last_commit": "2020-12-29T16:10:21Z",
+                    "owner": "johngrantuk",
+                    "repo": "golem-array",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cadCAD Golem",
+                  "description": "Package wrapper for cadCAD to dispatch the simulation workload to multiple Golem nodes. Supports Jupyter Notebook.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 325557667,
+                    "language": "Python",
+                    "last_commit": "2022-04-01T11:54:25Z",
+                    "owner": "rogervs",
+                    "repo": "cadcadgolem",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Limit visualization",
+                  "description": "Plots graphs with various limits. Supports discontinous graphs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 305028739,
+                    "language": "Python",
+                    "last_commit": "2025-01-24T17:46:13Z",
+                    "owner": "vporton",
+                    "repo": "limit-visualization",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GolemGraphWavePair",
+                  "description": "Generates graph frames, then combine them into an animation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 305546394,
+                    "language": "Python",
+                    "last_commit": "2020-10-20T01:36:10Z",
+                    "owner": "smiley1983",
+                    "repo": "golemGraphWavePair",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Golemized strong-gravitational-lense",
+                  "description": "Simple distributed computing hack that simulates a physical phenomena called gravitional lensing.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 306025902,
+                    "language": "Python",
+                    "last_commit": "2020-10-21T13:53:02Z",
+                    "owner": "reza-hackathons",
+                    "repo": "golemized-strong-gravitational-lense",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Data Simulation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Golem or-tools",
+                  "description": "Uses the or-tools Constraint Programming library to solve problems.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 302422336,
+                    "language": "Python",
+                    "last_commit": "2020-10-08T18:06:34Z",
+                    "owner": "DerekJarvis",
+                    "repo": "golem-ortools",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mutta Puffs",
+                  "description": "Sports league scheduler that solves the Travelling Tournament Problem for a given set of teams using Population-based Simulated Annealing.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 368255218,
+                    "language": "Python",
+                    "last_commit": "2021-09-27T21:46:47Z",
+                    "owner": "guplersaxanoid",
+                    "repo": "Mutta-Puffs",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "No more COFUD",
+                  "description": "Calculates how to fit the most people into a space while keeping 2 meters distance between each other.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 320007445,
+                    "language": "TypeScript",
+                    "last_commit": "2021-01-05T17:29:48Z",
+                    "owner": "DEUTSCHKLUB",
+                    "repo": "no-more-COFUD",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Data Optimization"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "DeML-Golem",
+                  "description": "Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 327020373,
+                    "language": "Python",
+                    "last_commit": "2021-01-08T10:36:55Z",
+                    "owner": "anshuman73",
+                    "repo": "DeML-Golem",
+                    "stars": 44
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Golem Image Classifier",
+                  "description": "Train and classify images through an active service.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 381375801,
+                    "language": "Python",
+                    "last_commit": "2021-09-19T17:59:59Z",
+                    "owner": "ControlCplusControlV",
+                    "repo": "Golem-Image-Classifier",
+                    "stars": 6
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Machine Learning"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Deepart Golem",
+                  "description": "Makes art using distributed computing by running a tensorflow app, uploading your content and style picture.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 327122471,
+                    "language": "CSS",
+                    "last_commit": "2021-01-06T23:33:31Z",
+                    "owner": "echinocacti",
+                    "repo": "deepart_golem",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mlg",
+                  "description": "CNN predict services, a deep learning application that distributes popular CNNs pre-trained with ImageNet datasets.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 360931690,
+                    "language": "Python",
+                    "last_commit": "2022-02-04T09:23:21Z",
+                    "owner": "rezahsnz",
+                    "repo": "mlg",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Deep Learning"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Entropythief",
+                  "description": "Get random entropy at a steal of a rate from multiple providers utilizing the linux entropy source or Intel's RDRAND cpu instruction (inspired by Gandom).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 382565574,
+                    "language": "Python",
+                    "last_commit": "2025-10-27T22:06:06Z",
+                    "owner": "krunch3r76",
+                    "repo": "entropythief",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Gandom",
+                  "description": "Extract random streams from providers. Supports two PRNGs, one based on Chaos machines and the other that makes use of Sodium.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 324148126,
+                    "language": "C++",
+                    "last_commit": "2021-01-02T15:01:50Z",
+                    "owner": "reza-hackathons",
+                    "repo": "gandom",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "RNG"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Golem Staking Pool incentivize system for GLM holders",
+                  "description": "A smart contract in order to provide the opportunity of yield farming for GLM token holders.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 322740946,
+                    "language": "Solidity",
+                    "last_commit": "2021-01-19T14:45:19Z",
+                    "owner": "masaun",
+                    "repo": "GLM-stake-pool",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Magic-doll",
+                  "description": "Sumer is a DeFi application that people may delegate their Splinterland card to earn passive income. Its core is , a Golem app that does all the computation to pick the best team to play for each match.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 323285684,
+                    "language": "JavaScript",
+                    "last_commit": "2021-01-07T04:47:55Z",
+                    "owner": "bakaoh",
+                    "repo": "magic-doll",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "DeFi"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Gc__ListOffers",
+                  "description": "List offers by providers on the Golem Network with a GUI.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 425121282,
+                    "language": "Python",
+                    "last_commit": "2023-09-17T21:17:37Z",
+                    "owner": "krunch3r76",
+                    "repo": "gc__listoffers",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Filterms",
+                  "description": "Market-strategy for whitelisting or blacklisting as a Golem requestor (yapapi).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 416638146,
+                    "language": "Python",
+                    "last_commit": "2025-10-28T00:06:57Z",
+                    "owner": "krunch3r76",
+                    "repo": "gc__filterms",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "gvm-vim",
+                  "description": "Golemized docker image for compiling the VIM editor.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 304795507,
+                    "language": "Python",
+                    "last_commit": "2020-10-17T19:26:46Z",
+                    "owner": "kauenet",
+                    "repo": "gvm-vim",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Golem Image Sharpening",
+                  "description": "A tool to sharpen images.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 326942012,
+                    "language": "JavaScript",
+                    "last_commit": "2021-01-05T15:07:11Z",
+                    "owner": "visualNext",
+                    "repo": "golem",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "golem-bulk-image-handler",
+                  "description": "Takes an input image and processes it in many different ways using the Pillow library.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 439657912,
+                    "language": "Python",
+                    "last_commit": "2021-12-18T16:51:30Z",
+                    "owner": "figurestudios",
+                    "repo": "golem-bulk-image-handler",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Miscellaneous"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Apps"
         }
       ],
-      "title": "Monitoring"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Golem Provider Node",
-          "description": "Docker version of a node to help you get started running as a provider in a Docker container quick.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dockerfile",
-            "last_commit": "2026-08-19T03:50:02Z",
-            "owner": "alexandre-abrioux",
-            "repo": "golem-node",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Automatic Golem",
-          "description": "Setup a Golem Provider with simple instructions and logs guiding you through the process.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-04-18T23:12:12Z",
-            "owner": "r34x",
-            "repo": "Automatic-Golem",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golem Provider node",
-          "description": "Fork of Alxexandre-abrioux project above that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-04-09T08:44:05Z",
-            "owner": "blue-notes-robot",
-            "repo": "golem-node",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golem Provider Terraform",
-          "description": "Terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-01-06T00:07:13Z",
-            "owner": "nemani",
-            "repo": "golem-provider-terraform",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Provisioning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Learning Resources"
-    },
-    {
-      "description": "Pull requests and issues with suggestions to Awesome Golem are welcome! Please read the contributing guidelines before submitting a PR.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Archive"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Golem Test Harness (Goth)",
-          "description": "Tool with the purpose of speeding up your development process and making it more enjoyable for application creators.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-08T06:17:52Z",
-            "owner": "golemfactory",
-            "repo": "goth",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golem SLATE",
-          "description": "Open source repository for Golem SLATE described in the above Apps section.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "SCSS",
-            "last_commit": "2021-03-15T00:52:45Z",
-            "owner": "DEUTSCHKLUB",
-            "repo": "golem-slate",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golem CI",
-          "description": "Decentralized task pipeline.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-01-07T21:18:42Z",
-            "owner": "hhio618",
-            "repo": "golem-ci",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ThorgPress",
-          "description": "A tool to benchmark providers and unveil their true capabilities beyond what can be seen through the marketplace.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-06-19T18:21:37Z",
-            "owner": "figurestudios",
-            "repo": "thorgpress",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golem-afl",
-          "description": "An experimental test-fuzzing framework. Assists in finding security holes.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Golem Cargo Test",
-          "description": "An adaptive distributed test executor for Rust projects.",
-          "children": []
-        }
-      ],
-      "title": "Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Yagna httpx client",
-          "description": "VPN usage on Yagna demonstrating communication with a provider-based HTTP server the way you communicate with any other HTTP server.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-10-06T15:31:51Z",
-            "owner": "golemfactory",
-            "repo": "ya-httpx-client",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golem Provider with network access",
-          "description": "A requstor that acts as a http proxy for running providers, allowing them to access the wider internet.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-11-28T03:45:58Z",
-            "owner": "jedbrooke",
-            "repo": "golem-network-requestor",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "VPN"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ChessOnGolem",
-          "description": "Open source repository for Chess described in first Apps section. Includes React frontend for the 2 AI's playing against each other through the Golem backend.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-03-29T19:36:14Z",
-            "owner": "warburg-pb",
-            "repo": "ChessOnGolem",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golem Fleet Battle Simulator",
-          "description": "System for calculating the results of a battle between two opposing starship fleets. Used in the iOS game Rock Paper Frigate to determine the result of PvP fleet battles.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-06-29T23:48:10Z",
-            "owner": "UnfortuN8",
-            "repo": "Golem-Fleet-Battle-Simulator",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golem Sudoku",
-          "description": "Game of Sudoku with size variants.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-01-12T06:17:22Z",
-            "owner": "Dodecane",
-            "repo": "golem-sudoku",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HSOG-requester",
-          "description": "Helps the HearthStone community in the design and building of decks by running a large number of simulated games.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-01-07T02:43:32Z",
-            "owner": "ChrisHelmsC",
-            "repo": "hsog-requestor",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Games"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Golocity",
-          "description": "Build and deploy your dockerized applications on the Golem Network in just two commands.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-07-30T00:37:43Z",
-            "owner": "davidstyers",
-            "repo": "golocity",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golem Completion Engine",
-          "description": "Enhanced bash completion engine that extends built-in completions by providing contextual help for golemsp and yagna.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-02-12T23:53:00Z",
-            "owner": "krunch3r76",
-            "repo": "gc__enhanced_completion",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gc__push_image",
-          "description": "A CLI tool that publishes the GVMI image to Skynet, making users able to change the image_url without self-hosting/giving up control.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-06-30T13:42:50Z",
-            "owner": "figurestudios",
-            "repo": "gc__push_image",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "CLI Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Golem Transcoding requestor",
-          "description": "React + Spring based webapp accepting video files as input and transcoding these files into different formats.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-11-25T17:29:36Z",
-            "owner": "tokrug",
-            "repo": "golem-transcoding",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golem Auto Editor",
-          "description": "Run Auto-Editor to automatically perform some video editing functions, offload the video processing to Golem.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-06-25T02:41:39Z",
-            "owner": "jedbrooke",
-            "repo": "golem-auto-editor",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golem Network Video Transcoder",
-          "description": "Sample app to transcode videos. Select your transcoding profile and then upload your videos.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2020-10-19T23:52:15Z",
-            "owner": "DerekJarvis",
-            "repo": "golem-video",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Video Transcoding and Editing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Flan",
-          "description": "Tool for entrepreneurs that provide customized analysis of millions of worldwide trade value records giving them a bold guideline about what sectors they would need to take more attention to.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-01-06T17:35:35Z",
-            "owner": "nestorbonilla",
-            "repo": "flan",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Full-Text Search Engine",
-          "description": "A search engine service that goes through text files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-08-22T21:25:16Z",
-            "owner": "niklr",
-            "repo": "golem-fulltext-search",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golem COVID",
-          "description": "Creates images of new deaths per million related to COVID. After all images generated, it will gather them and create a gif.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-10-23T20:33:31Z",
-            "owner": "iRhonin",
-            "repo": "golem-covid",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golem Parallel Matplotlib",
-          "description": "Various statistical analyses are performed on circadian rhythm measurements in human test subjects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-10-24T20:13:50Z",
-            "owner": "CoeJoder",
-            "repo": "golem-parallel-matplotlib",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golem Lorenz-attractor",
-          "description": "A system of three coupled, first-order, nonlinear differential equations which describe the trajectory of a particle through time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-11-06T09:53:44Z",
-            "owner": "hhio618",
-            "repo": "golem-lorenz-attractor",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golem Geomandel",
-          "description": "Python script for generating sequences of Mandelbrot images centered on a single point and with zoom increasing in each image.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-10-31T12:38:25Z",
-            "owner": "tokrug",
-            "repo": "golem-geomandel",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Coacervate",
-          "description": "Coacervate is a free and open-source public good that lets you easily run genomic analyses on an extremely low-cost global supercomputer; democratizing access to the knowledge and infrastructure required to carry out groundbreaking research.",
-          "children": []
-        }
-      ],
-      "title": "Data Analysis"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Golem Array",
-          "description": "Antenna array design and simulation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-12-29T16:10:21Z",
-            "owner": "johngrantuk",
-            "repo": "golem-array",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cadCAD Golem",
-          "description": "Package wrapper for cadCAD to dispatch the simulation workload to multiple Golem nodes. Supports Jupyter Notebook.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-04-01T11:54:25Z",
-            "owner": "rogervs",
-            "repo": "cadcadgolem",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Limit visualization",
-          "description": "Plots graphs with various limits. Supports discontinous graphs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-24T17:46:13Z",
-            "owner": "vporton",
-            "repo": "limit-visualization",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GolemGraphWavePair",
-          "description": "Generates graph frames, then combine them into an animation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-10-20T01:36:10Z",
-            "owner": "smiley1983",
-            "repo": "golemGraphWavePair",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golemized strong-gravitational-lense",
-          "description": "Simple distributed computing hack that simulates a physical phenomena called gravitional lensing.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2020-10-21T13:53:02Z",
-            "owner": "reza-hackathons",
-            "repo": "golemized-strong-gravitational-lense",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Data Simulation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Golem or-tools",
-          "description": "Uses the or-tools Constraint Programming library to solve problems.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-10-08T18:06:34Z",
-            "owner": "DerekJarvis",
-            "repo": "golem-ortools",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mutta Puffs",
-          "description": "Sports league scheduler that solves the Travelling Tournament Problem for a given set of teams using Population-based Simulated Annealing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-09-27T21:46:47Z",
-            "owner": "guplersaxanoid",
-            "repo": "Mutta-Puffs",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "No more COFUD",
-          "description": "Calculates how to fit the most people into a space while keeping 2 meters distance between each other.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2021-01-05T17:29:48Z",
-            "owner": "DEUTSCHKLUB",
-            "repo": "no-more-COFUD",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Data Optimization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DeML-Golem",
-          "description": "Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-01-08T10:36:55Z",
-            "owner": "anshuman73",
-            "repo": "DeML-Golem",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golem Image Classifier",
-          "description": "Train and classify images through an active service.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-09-19T17:59:59Z",
-            "owner": "ControlCplusControlV",
-            "repo": "Golem-Image-Classifier",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Machine Learning"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Deepart Golem",
-          "description": "Makes art using distributed computing by running a tensorflow app, uploading your content and style picture.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2021-01-06T23:33:31Z",
-            "owner": "echinocacti",
-            "repo": "deepart_golem",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mlg",
-          "description": "CNN predict services, a deep learning application that distributes popular CNNs pre-trained with ImageNet datasets.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-02-04T09:23:21Z",
-            "owner": "rezahsnz",
-            "repo": "mlg",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Deep Learning"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Entropythief",
-          "description": "Get random entropy at a steal of a rate from multiple providers utilizing the linux entropy source or Intel's RDRAND cpu instruction (inspired by Gandom).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-27T22:06:06Z",
-            "owner": "krunch3r76",
-            "repo": "entropythief",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gandom",
-          "description": "Extract random streams from providers. Supports two PRNGs, one based on Chaos machines and the other that makes use of Sodium.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2021-01-02T15:01:50Z",
-            "owner": "reza-hackathons",
-            "repo": "gandom",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "RNG"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Golem Staking Pool incentivize system for GLM holders",
-          "description": "A smart contract in order to provide the opportunity of yield farming for GLM token holders.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2021-01-19T14:45:19Z",
-            "owner": "masaun",
-            "repo": "GLM-stake-pool",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Magic-doll",
-          "description": "Sumer is a DeFi application that people may delegate their Splinterland card to earn passive income. Its core is , a Golem app that does all the computation to pick the best team to play for each match.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-01-07T04:47:55Z",
-            "owner": "bakaoh",
-            "repo": "magic-doll",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "DeFi"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Gc__ListOffers",
-          "description": "List offers by providers on the Golem Network with a GUI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-17T21:17:37Z",
-            "owner": "krunch3r76",
-            "repo": "gc__listoffers",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Filterms",
-          "description": "Market-strategy for whitelisting or blacklisting as a Golem requestor (yapapi).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-28T00:06:57Z",
-            "owner": "krunch3r76",
-            "repo": "gc__filterms",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gvm-vim",
-          "description": "Golemized docker image for compiling the VIM editor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-10-17T19:26:46Z",
-            "owner": "kauenet",
-            "repo": "gvm-vim",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golem Image Sharpening",
-          "description": "A tool to sharpen images.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-01-05T15:07:11Z",
-            "owner": "visualNext",
-            "repo": "golem",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "golem-bulk-image-handler",
-          "description": "Takes an input image and processes it in many different ways using the Pillow library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-12-18T16:51:30Z",
-            "owner": "figurestudios",
-            "repo": "golem-bulk-image-handler",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Miscellaneous"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:04:08.314Z",
+    "last_updated": "2026-08-19T12:32:19.488Z",
     "original_repository": "golemfactory/awesome-golem",
+    "original_repository_id": 308307959,
     "original_repository_sha": "ea2e7d49e2258f6f7a0f96d95e5e7bc96af728f2",
     "enhanced_repository": "enhansome/enhansome-golem",
     "enhanced_repository_description": null,
