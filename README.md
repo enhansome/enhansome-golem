@@ -144,8 +144,8 @@ Pull requests and issues with suggestions to Awesome Golem are welcome! Please r
 
 ### Apps
 
-* [Chess On Golem](https://chessongolem.app/) - Hosted Chess app to play against the providers of the network utilizing the Stockfish open source Chess engine.
 * [Go le' Machin](https://github.com/DEUTSCHKLUB/go-le-m) ⚠️ Archived - Web based bulk image editor that allows users to upload multiple images and apply bulk actions to them.
+* [Chess On Golem](https://chessongolem.app/) - Hosted Chess app to play against the providers of the network utilizing the Stockfish open source Chess engine.
 
 #### Docker
 

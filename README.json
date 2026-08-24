@@ -4,6 +4,78 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ray on Golem",
+              "description": "is an exciting integration with Ray, a distributed computing framework, to provide an easier way of accessing the Golem Network for Python developers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 631954962,
+                "language": "Python",
+                "last_commit": "2024-10-22T06:22:40Z",
+                "owner": "golemfactory",
+                "repo": "ray-on-golem",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ray on Golem"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "golem-js",
+              "description": "is a library and set of developer tools and docs that are aimed to enable developers to create Golem applications running in Node.js or browser context.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293524572,
+                "language": "TypeScript",
+                "last_commit": "2026-02-14T03:55:36Z",
+                "owner": "golemfactory",
+                "repo": "golem-js",
+                "stars": 41
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "golem-js - the JS SDK from Golem"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jupyter on Golem",
+              "description": "is a JupyterLab Python kernel that empowers you to run your Python Notebooks using the decentralized resources available on the Golem Network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 588177142,
+                "language": "Python",
+                "last_commit": "2024-07-18T14:52:55Z",
+                "owner": "golemfactory",
+                "repo": "golem-kernel-python",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Jupyter on Golem"
+        }
+      ],
+      "title": "Golem Projects"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Yagna-binaries for aarch64",
           "description": "Build for 64 bit arm architecture to be able to run as a provider on a system such as a Raspberry Pi.",
@@ -145,6 +217,43 @@
       "items": [
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Go le' Machin",
+              "description": "Web based bulk image editor that allows users to upload multiple images and apply bulk actions to them.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 324873438,
+                "language": "TypeScript",
+                "last_commit": "2021-01-05T19:14:43Z",
+                "owner": "DEUTSCHKLUB",
+                "repo": "go-le-m",
+                "stars": 1
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Golem Requestor Node",
+                  "description": "Dockerized requestor environment. Pass in the py script, it sets up the daemon and runs it.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 315625508,
+                    "language": "Python",
+                    "last_commit": "2020-11-24T13:21:44Z",
+                    "owner": "DerekJarvis",
+                    "repo": "general-golem",
+                    "stars": 6
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Docker"
+            },
             {
               "children": [
                 {
@@ -766,6 +875,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Golem-JTR",
+                  "description": "Run John The Ripper to recover a password.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 304700746,
+                    "language": "Python",
+                    "last_commit": "2021-01-11T01:28:00Z",
+                    "owner": "hhio618",
+                    "repo": "golem-jtr",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Password Recovery"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Golem Staking Pool incentivize system for GLM holders",
                   "description": "A smart contract in order to provide the opportunity of yield farming for GLM token holders.",
                   "children": [],
@@ -798,6 +929,28 @@
               "description": null,
               "node_type": "group",
               "title": "DeFi"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Golem UI",
+                  "description": "Electron user interface for Yagna.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 325072692,
+                    "language": "TypeScript",
+                    "last_commit": "2021-01-14T14:47:14Z",
+                    "owner": "shri4net",
+                    "repo": "golem-hackathon-2020",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "User Interfaces"
             },
             {
               "children": [
@@ -891,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:20:00.704Z",
+    "last_updated": "2026-08-24T14:29:26.404Z",
     "original_repository": "golemfactory/awesome-golem",
     "original_repository_id": 308307959,
     "original_repository_sha": "ea2e7d49e2258f6f7a0f96d95e5e7bc96af728f2",
