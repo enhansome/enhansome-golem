@@ -1044,9 +1044,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:06:54.369Z",
-    "original_repository": "golemfactory/awesome-golem",
-    "original_repository_id": 308307959,
+    "last_updated": "2026-08-27T11:41:55.997Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 308307959,
+      "language": null,
+      "last_commit": "2024-01-16T15:45:30Z",
+      "owner": "golemfactory",
+      "repo": "awesome-golem",
+      "stars": 243
+    },
     "original_repository_sha": "ea2e7d49e2258f6f7a0f96d95e5e7bc96af728f2",
     "enhanced_repository": "enhansome/enhansome-golem",
     "enhanced_repository_description": null,
