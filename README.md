@@ -98,7 +98,7 @@ Emeth specializes in DeFi (Decentralized Finance) portfolio management and block
 
 ### Provisioning
 
-* [Golem Provider Node](https://github.com/alexandre-abrioux/golem-node) ⭐ 22 | 🐛 1 | 🌐 Dockerfile | 📅 2026-08-19 - Docker version of a node to help you get started running as a provider in a Docker container quick.
+* [Golem Provider Node](https://github.com/alexandre-abrioux/golem-node) ⭐ 22 | 🐛 1 | 🌐 Dockerfile | 📅 2026-08-28 - Docker version of a node to help you get started running as a provider in a Docker container quick.
 * [Automatic Golem](https://github.com/r34x/Automatic-Golem) ⭐ 9 | 🐛 0 | 🌐 Shell | 📅 2021-04-18 - Setup a Golem Provider with simple instructions and logs guiding you through the process.
 * [Golem Provider node](https://github.com/blue-notes-robot/golem-node) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2022-04-09 - Fork of Alxexandre-abrioux project above that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn.
 * [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) ⭐ 2 | 🐛 1 | 🌐 Shell | 📅 2021-01-06 - Terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.
@@ -247,4 +247,4 @@ Pull requests and issues with suggestions to Awesome Golem are welcome! Please r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
