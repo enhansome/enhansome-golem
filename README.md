@@ -41,7 +41,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 ## Network Statistics
 
 * [Golem Network Stats](https://stats.golem.network) - Statistics tracking tasks and provider resource utilization in the Golem Network.
-* [Golem Stats backend](https://github.com/cryptobench/golem-stats-backend) ⭐ 2 | 🐛 10 | 🌐 Python | 📅 2026-08-25 - Backend of the Golem Network Statistics page including API endpoint URLs.
+* [Golem Stats backend](https://github.com/cryptobench/golem-stats-backend) ⭐ 2 | 🐛 10 | 🌐 Python | 📅 2026-08-28 - Backend of the Golem Network Statistics page including API endpoint URLs.
 * [Stats API Documentation](https://docs.stats.golem.network/) - API endpoints that the Golem Network Stats page uses to display its data.
 
 ## Golem Projects
@@ -247,4 +247,4 @@ Pull requests and issues with suggestions to Awesome Golem are welcome! Please r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

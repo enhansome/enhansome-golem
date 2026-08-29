@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 631954962,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-10-22T06:22:40Z",
+                "open_issues": 18,
                 "owner": "golemfactory",
                 "repo": "ray-on-golem",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:51:46.368Z"
             }
@@ -35,12 +40,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript + NodeJS API for Golem",
+                "homepage": "https://docs.golem.network/docs/creators/javascript",
                 "id": 293524572,
                 "language": "TypeScript",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-02-14T03:55:36Z",
+                "open_issues": 15,
                 "owner": "golemfactory",
                 "repo": "golem-js",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "distributed-computing",
+                  "golem",
+                  "nodejs",
+                  "sdk",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T16:51:46.368Z"
             }
@@ -58,12 +74,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 588177142,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-18T14:52:55Z",
+                "open_issues": 0,
                 "owner": "golemfactory",
                 "repo": "golem-kernel-python",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:51:46.368Z"
             }
@@ -85,12 +106,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 363286808,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2023-02-10T12:12:04Z",
+            "open_issues": 2,
             "owner": "MarijnStevens",
             "repo": "yagna-binaries",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:51:46.368Z"
         },
@@ -101,12 +127,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "automatically adjust the price for your golem node based on the current price of GLM",
+            "homepage": null,
             "id": 432824933,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-03-06T06:08:46Z",
+            "open_issues": 3,
             "owner": "jedbrooke",
             "repo": "golem-price-updater",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "cryptocurrency",
+              "golem"
+            ]
           },
           "first_seen": "2026-08-28T16:51:46.368Z"
         },
@@ -119,12 +153,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ReactJS Dashboard which exposes information about your golem-providers such as # of completed tasks, etc.",
+                "homepage": null,
                 "id": 349884309,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-05-24T07:00:18Z",
+                "open_issues": 1,
                 "owner": "vciancio",
                 "repo": "golem-dashboard",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "golem",
+                  "golem-network"
+                ]
               },
               "first_seen": "2026-08-28T16:51:46.368Z"
             },
@@ -135,12 +177,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flask Server which exposes information about a golem-provider such as isProcessingTask, CPU usage, # of completed tasks, etc.",
+                "homepage": "https://hub.docker.com/repository/docker/vciancio/golem-node-server",
                 "id": 349924886,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-06-13T03:27:34Z",
+                "open_issues": 1,
                 "owner": "vciancio",
                 "repo": "golem-node-server",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "golem",
+                  "golem-network"
+                ]
               },
               "first_seen": "2026-08-28T16:51:46.368Z"
             }
@@ -158,12 +208,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dockerized Golem Network Provider Node",
+                "homepage": "https://hub.docker.com/r/aabrioux/golem-node",
                 "id": 322129277,
                 "language": "Dockerfile",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:42:51Z",
+                "open_issues": 1,
                 "owner": "alexandre-abrioux",
                 "repo": "golem-node",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "docker",
+                  "docker-compose",
+                  "dockerfile",
+                  "golem"
+                ]
               },
               "first_seen": "2026-08-28T16:51:46.368Z"
             },
@@ -174,12 +234,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official repository for the Automated Golem Provider with monitoring.",
+                "homepage": null,
                 "id": 353158329,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2021-04-18T23:12:12Z",
+                "open_issues": 0,
                 "owner": "r34x",
                 "repo": "Automatic-Golem",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:51:46.368Z"
             },
@@ -190,12 +255,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dockerized Golem Network Provider Node",
+                "homepage": "https://hub.docker.com/r/aabrioux/golem-node",
                 "id": 354278640,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-09T08:44:05Z",
+                "open_issues": 0,
                 "owner": "blue-notes-robot",
                 "repo": "golem-node",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:51:46.368Z"
             },
@@ -206,12 +276,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 327105637,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2021-01-06T00:07:13Z",
+                "open_issues": 1,
                 "owner": "nemani",
                 "repo": "golem-provider-terraform",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:51:46.368Z"
             }
@@ -235,12 +310,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Working repo for the Go Le'M Photo lab app",
+                "homepage": null,
                 "id": 324873438,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2021-01-05T19:14:43Z",
+                "open_issues": 0,
                 "owner": "DEUTSCHKLUB",
                 "repo": "go-le-m",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "golem"
+                ]
               },
               "first_seen": "2026-08-28T16:51:46.368Z"
             },
@@ -253,12 +335,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 315625508,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-11-24T13:21:44Z",
+                    "open_issues": 0,
                     "owner": "DerekJarvis",
                     "repo": "general-golem",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "golem"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 }
@@ -276,12 +365,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Golem Test Harness, an integration testing framework for yagna - the (new) Golem Network client.",
+                    "homepage": null,
                     "id": 249806436,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-01-08T06:17:52Z",
+                    "open_issues": 92,
                     "owner": "golemfactory",
                     "repo": "goth",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "developer-tools",
+                      "golem",
+                      "integration-testing"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -292,12 +390,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Working repo for golpen web server",
+                    "homepage": null,
                     "id": 321043410,
                     "language": "SCSS",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-03-15T00:52:45Z",
+                    "open_issues": 1,
                     "owner": "DEUTSCHKLUB",
                     "repo": "golem-slate",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "golem"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -308,12 +413,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Task pipeline on top of Golem.network",
+                    "homepage": null,
                     "id": 326974059,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-01-07T21:18:42Z",
+                    "open_issues": 0,
                     "owner": "hhio618",
                     "repo": "golem-ci",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -324,12 +434,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "THE THORG SHOWS US HOW TO PRESS A SYSTEM TO ITS ABSOLUTE LIMITS, EVEN THOUGH ONE CAN NEVER BEAT THORG'S BENCH RECORD",
+                    "homepage": null,
                     "id": 491207931,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2022-06-19T18:21:37Z",
+                    "open_issues": 4,
                     "owner": "figurestudios",
                     "repo": "thorgpress",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "golem"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 }
@@ -347,12 +464,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 366668613,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-10-06T15:31:51Z",
+                    "open_issues": 7,
                     "owner": "golemfactory",
                     "repo": "ya-httpx-client",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "golem"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -363,12 +487,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "golem provider runtime with network access via http proxy proof of concept",
+                    "homepage": null,
                     "id": 427528146,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-11-28T03:45:58Z",
+                    "open_issues": 0,
                     "owner": "jedbrooke",
                     "repo": "golem-network-requestor",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "golem",
+                      "http",
+                      "networking",
+                      "proxy",
+                      "ssh"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 }
@@ -386,12 +521,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 321377499,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-03-29T19:36:14Z",
+                    "open_issues": 2,
                     "owner": "warburg-pb",
                     "repo": "ChessOnGolem",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "golem"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -402,12 +544,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A system for calculating the results of a battle between two opposing starship fleets on the Golem network. Used in the iOS game Rock Paper Frigate to determine the result of PvP fleet battles.",
+                    "homepage": null,
                     "id": 373719308,
                     "language": "Python",
+                    "license": "LGPL-3.0",
                     "last_commit": "2021-06-29T23:48:10Z",
+                    "open_issues": 0,
                     "owner": "UnfortuN8",
                     "repo": "Golem-Fleet-Battle-Simulator",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -418,12 +565,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 327071877,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-01-12T06:17:22Z",
+                    "open_issues": 2,
                     "owner": "Dodecane",
                     "repo": "golem-sudoku",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "golem"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -434,12 +588,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Requester for running HearthStoneOnGolem",
+                    "homepage": null,
                     "id": 355702686,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-01-07T02:43:32Z",
+                    "open_issues": 1,
                     "owner": "ChrisHelmsC",
                     "repo": "hsog-requestor",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "golem"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 }
@@ -457,12 +618,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An execution engine for the Golem Network",
+                    "homepage": null,
                     "id": 388653056,
                     "language": "Python",
+                    "license": "LGPL-3.0",
                     "last_commit": "2021-07-30T00:37:43Z",
+                    "open_issues": 2,
                     "owner": "davidstyers",
                     "repo": "golocity",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -473,12 +639,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "augment golemsp and yagna's built in bash completion with contextual help",
+                    "homepage": null,
                     "id": 411450111,
                     "language": "Shell",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-02-12T23:53:00Z",
+                    "open_issues": 0,
                     "owner": "krunch3r76",
                     "repo": "gc__enhanced_completion",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "golem"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -489,12 +662,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Showing alternative hosting to the traditional Golem main server for GVMI images",
+                    "homepage": null,
                     "id": 504952254,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-06-30T13:42:50Z",
+                    "open_issues": 0,
                     "owner": "figurestudios",
                     "repo": "gc__push_image",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "golem",
+                      "skynet"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 }
@@ -512,12 +693,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Golem Transcoding app using Yagna python API, React and Spring Boot.",
+                    "homepage": null,
                     "id": 314571333,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2020-11-25T17:29:36Z",
+                    "open_issues": 0,
                     "owner": "tokrug",
                     "repo": "golem-transcoding",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "golem",
+                      "python",
+                      "spring-boot",
+                      "yagna"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -528,12 +719,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Run Auto-Editor on the Golem Network",
+                    "homepage": null,
                     "id": 411878029,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-06-25T02:41:39Z",
+                    "open_issues": 0,
                     "owner": "jedbrooke",
                     "repo": "golem-auto-editor",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "auto-editor",
+                      "golem",
+                      "video-processing"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -544,12 +744,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 305540541,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2020-10-19T23:52:15Z",
+                    "open_issues": 0,
                     "owner": "DerekJarvis",
                     "repo": "golem-video",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "golem"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 }
@@ -567,12 +774,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Flow analysis on disaggregated data on bilateral trade using Golem",
+                    "homepage": null,
                     "id": 326324998,
                     "language": "Python",
+                    "license": "LGPL-3.0",
                     "last_commit": "2021-01-06T17:35:35Z",
+                    "open_issues": 1,
                     "owner": "nestorbonilla",
                     "repo": "flan",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "golem"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -583,12 +797,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A full-text search engine running on Golem Network.",
+                    "homepage": null,
                     "id": 390024268,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-08-22T21:25:16Z",
+                    "open_issues": 0,
                     "owner": "niklr",
                     "repo": "golem-fulltext-search",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "cloud-computing",
+                      "fulltext-search",
+                      "fulltextsearch",
+                      "golem",
+                      "golem-network"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -599,12 +824,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Using Golem.Network to visualize Covid-19 data",
+                    "homepage": null,
                     "id": 306740444,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-10-23T20:33:31Z",
+                    "open_issues": 0,
                     "owner": "iRhonin",
                     "repo": "golem-covid",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -615,12 +845,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 306814020,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-10-24T20:13:50Z",
+                    "open_issues": 0,
                     "owner": "CoeJoder",
                     "repo": "golem-parallel-matplotlib",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -631,12 +866,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simulating Lorenz attractor on Golem.network",
+                    "homepage": null,
                     "id": 306961324,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-11-06T09:53:44Z",
+                    "open_issues": 0,
                     "owner": "hhio618",
                     "repo": "golem-lorenz-attractor",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "lorenz-attractor",
+                      "scipy",
+                      "simulation"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -647,12 +891,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mandelbrot generator integration with the Golem project",
+                    "homepage": null,
                     "id": 308162885,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-10-31T12:38:25Z",
+                    "open_issues": 0,
                     "owner": "tokrug",
                     "repo": "golem-geomandel",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "golem",
+                      "mandelbrot",
+                      "yagna"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 }
@@ -670,12 +923,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Winner of the Golem Gitcoin Hackathon 2020 (https://blog.golemproject.net/meet-the-winners-golem-gitcoin-hackathon-2020/). This app lets people design, simulate, and analyse antenna arrays without the need to utilize commercial and expensive applications.",
+                    "homepage": null,
                     "id": 323645610,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-12-29T16:10:21Z",
+                    "open_issues": 0,
                     "owner": "johngrantuk",
                     "repo": "golem-array",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "golem"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -686,12 +946,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "This package is a wrapper for cadCAD to dispatch the simulation workload to multiple Golem nodes.",
+                    "homepage": null,
                     "id": 325557667,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-04-01T11:54:25Z",
+                    "open_issues": 1,
                     "owner": "rogervs",
                     "repo": "cadcadgolem",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "cadcad",
+                      "distributed-computing",
+                      "golem",
+                      "modelling",
+                      "simulation"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -702,12 +973,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Visualization of generalized limit (as defined for an arbitrary (discontinuous) function)",
+                    "homepage": null,
                     "id": 305028739,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-01-24T17:46:13Z",
+                    "open_issues": 0,
                     "owner": "vporton",
                     "repo": "limit-visualization",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -718,12 +994,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Use the Golem Network to generate graphs",
+                    "homepage": null,
                     "id": 305546394,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-10-20T01:36:10Z",
+                    "open_issues": 0,
                     "owner": "smiley1983",
                     "repo": "golemGraphWavePair",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -734,12 +1015,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 306025902,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-10-21T13:53:02Z",
+                    "open_issues": 0,
                     "owner": "reza-hackathons",
                     "repo": "golemized-strong-gravitational-lense",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 }
@@ -757,12 +1043,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An or-tools worker for the golem network",
+                    "homepage": null,
                     "id": 302422336,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-10-08T18:06:34Z",
+                    "open_issues": 0,
                     "owner": "DerekJarvis",
                     "repo": "golem-ortools",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "golem"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -773,12 +1066,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mutta Puffs is a sports league scheduler automated on thousands of computers from decentralized market of computational power in Golem. ",
+                    "homepage": null,
                     "id": 368255218,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-09-27T21:46:47Z",
+                    "open_issues": 0,
                     "owner": "guplersaxanoid",
                     "repo": "Mutta-Puffs",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -789,12 +1087,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 320007445,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-01-05T17:29:48Z",
+                    "open_issues": 1,
                     "owner": "DEUTSCHKLUB",
                     "repo": "no-more-COFUD",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "golem"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 }
@@ -812,12 +1117,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Proof Of Concept of DEcentralised Machine Learning on top of the Golem (https://golem.network/) architecture",
+                    "homepage": null,
                     "id": 327020373,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-01-08T10:36:55Z",
+                    "open_issues": 1,
                     "owner": "anshuman73",
                     "repo": "DeML-Golem",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": [
+                      "decentralised-machine-learning",
+                      "federated-learning",
+                      "golem"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -828,12 +1142,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Golem Image Classifier is built using the Service API of Yapapi to interact with the Golem Network (golem.network). Built as part of a Gitcoin Bounty",
+                    "homepage": null,
                     "id": 381375801,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-09-19T17:59:59Z",
+                    "open_issues": 0,
                     "owner": "ControlCplusControlV",
                     "repo": "Golem-Image-Classifier",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "golem",
+                      "machine-learning",
+                      "yagna"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 }
@@ -851,12 +1174,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 327122471,
                     "language": "CSS",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-01-06T23:33:31Z",
+                    "open_issues": 4,
                     "owner": "echinocacti",
                     "repo": "deepart_golem",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "golem"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -867,12 +1197,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "mlg: A decentralized CNN classification service based on Golem.",
+                    "homepage": null,
                     "id": 360931690,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-02-04T09:23:21Z",
+                    "open_issues": 1,
                     "owner": "rezahsnz",
                     "repo": "mlg",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "cnn",
+                      "golem",
+                      "keras"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 }
@@ -890,12 +1229,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "pilfer provider entropy stashes",
+                    "homepage": null,
                     "id": 382565574,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-10-27T22:06:06Z",
+                    "open_issues": 6,
                     "owner": "krunch3r76",
                     "repo": "entropythief",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "golem",
+                      "golem-apps"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -906,12 +1253,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Distributed PRNG based on Golem.",
+                    "homepage": null,
                     "id": 324148126,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2021-01-02T15:01:50Z",
+                    "open_issues": 0,
                     "owner": "reza-hackathons",
                     "repo": "gandom",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "golem"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 }
@@ -929,12 +1283,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 304700746,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-01-11T01:28:00Z",
+                    "open_issues": 0,
                     "owner": "hhio618",
                     "repo": "golem-jtr",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 }
@@ -952,12 +1311,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Yield farming opportunity for Golem's GLM token holders. (By staking uniswap-LP tokens that is a pair between GLM and ETH into the stake pool)",
+                    "homepage": null,
                     "id": 322740946,
                     "language": "Solidity",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-01-19T14:45:19Z",
+                    "open_issues": 0,
                     "owner": "masaun",
                     "repo": "GLM-stake-pool",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "defi",
+                      "golem",
+                      "solidity",
+                      "truffle",
+                      "web3js",
+                      "yield-farms"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -968,12 +1339,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 323285684,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-01-07T04:47:55Z",
+                    "open_issues": 1,
                     "owner": "bakaoh",
                     "repo": "magic-doll",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "golem"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 }
@@ -991,12 +1369,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Golem Hackathon 2020",
+                    "homepage": null,
                     "id": 325072692,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-01-14T14:47:14Z",
+                    "open_issues": 0,
                     "owner": "shri4net",
                     "repo": "golem-hackathon-2020",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "golem"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 }
@@ -1014,12 +1399,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a gui to see providers on the Golem network",
+                    "homepage": null,
                     "id": 425121282,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-09-17T21:17:37Z",
+                    "open_issues": 7,
                     "owner": "krunch3r76",
                     "repo": "gc__listoffers",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "golem",
+                      "golem-application",
+                      "golem-apps",
+                      "golem-network",
+                      "gui",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -1030,12 +1427,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a package that facilitates whitelisting or blacklisting on golem from the command line",
+                    "homepage": null,
                     "id": 416638146,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-10-28T00:06:57Z",
+                    "open_issues": 3,
                     "owner": "krunch3r76",
                     "repo": "gc__filterms",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "golem",
+                      "golem-apps"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -1046,12 +1451,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 304795507,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-10-17T19:26:46Z",
+                    "open_issues": 0,
                     "owner": "kauenet",
                     "repo": "gvm-vim",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -1062,12 +1472,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 326942012,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2021-01-05T15:07:11Z",
+                    "open_issues": 1,
                     "owner": "visualNext",
                     "repo": "golem",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 },
@@ -1078,12 +1493,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Generates images in bulk from image inputs.",
+                    "homepage": null,
                     "id": 439657912,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-12-18T16:51:30Z",
+                    "open_issues": 0,
                     "owner": "figurestudios",
                     "repo": "golem-bulk-image-handler",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "golem"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:46.368Z"
                 }
@@ -1102,15 +1524,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:51:46.368Z",
+    "last_updated": "2026-08-29T04:50:15.142Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A community-curated list of awesome projects and resources related to the Golem peer-to-peer computational resources marketplace.",
+      "homepage": null,
       "id": 308307959,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-01-16T15:45:30Z",
+      "open_issues": 2,
       "owner": "golemfactory",
       "repo": "awesome-golem",
-      "stars": 243
+      "stars": 243,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "golem",
+        "golem-network",
+        "golem-repositories"
+      ]
     },
     "original_repository_sha": "ea2e7d49e2258f6f7a0f96d95e5e7bc96af728f2",
     "enhanced_repository": "enhansome/enhansome-golem",
