@@ -56,7 +56,7 @@ We want to extend the capabilities of Golem Network for GPU workloads. Project s
 
 ### golem-js - the JS SDK from Golem
 
-[golem-js](https://github.com/golemfactory/golem-js) ⭐ 41 | 🐛 15 | 🌐 TypeScript | 📅 2026-02-14 is a library and set of developer tools and docs that are aimed to enable developers to create Golem applications running in Node.js or browser context.
+[golem-js](https://github.com/golemfactory/golem-js) ⭐ 41 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-01 is a library and set of developer tools and docs that are aimed to enable developers to create Golem applications running in Node.js or browser context.
 
 ### Jupyter on Golem
 
@@ -247,4 +247,4 @@ Pull requests and issues with suggestions to Awesome Golem are welcome! Please r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
