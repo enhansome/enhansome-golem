@@ -45,8 +45,8 @@
                 "id": 293524572,
                 "language": "TypeScript",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-01T15:05:46Z",
-                "open_issues": 16,
+                "last_commit": "2026-09-03T14:55:04Z",
+                "open_issues": 15,
                 "owner": "golemfactory",
                 "repo": "golem-js",
                 "stars": 41,
@@ -1524,7 +1524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T09:06:42.538Z",
+    "last_updated": "2026-09-04T08:59:33.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-curated list of awesome projects and resources related to the Golem peer-to-peer computational resources marketplace.",
