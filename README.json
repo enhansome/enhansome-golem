@@ -213,8 +213,8 @@
                 "id": 322129277,
                 "language": "Dockerfile",
                 "license": "MIT",
-                "last_commit": "2026-09-11T15:59:03Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-15T08:31:34Z",
+                "open_issues": 1,
                 "owner": "alexandre-abrioux",
                 "repo": "golem-node",
                 "stars": 22,
@@ -1524,7 +1524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T10:04:33.678Z",
+    "last_updated": "2026-09-15T09:33:23.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-curated list of awesome projects and resources related to the Golem peer-to-peer computational resources marketplace.",
