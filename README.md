@@ -80,7 +80,7 @@ Emeth specializes in DeFi (Decentralized Finance) portfolio management and block
 
 * [Golem Docs](https://docs.golem.network/) - A manual for Golem (both for Requestors and Providers).
 * [Python API Reference](https://yapapi.readthedocs.io/) - Yapapi API Reference.
-* [Releases List](https://github.com/golemfactory/yagna/releases) - GitHub releases of Yagna.
+* [Releases List](https://github.com/golemfactory/yagna/releases) ⭐ 2 | 🐛 0 | 🌐 Rust | 📅 2026-09-14 - GitHub releases of Yagna.
 * [JS Requestor Quickstart](https://docs.golem.network/docs/quickstarts/js-quickstart) - Get started quickly and create your first tasks/request on Golem.
 * [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna) - Use the Yagna tag if you have an interesting question you'd like answered.
 
@@ -247,4 +247,4 @@ Pull requests and issues with suggestions to Awesome Golem are welcome! Please r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
