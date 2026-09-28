@@ -213,8 +213,8 @@
                 "id": 322129277,
                 "language": "Dockerfile",
                 "license": "MIT",
-                "last_commit": "2026-09-27T09:05:11Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-28T09:40:41Z",
+                "open_issues": 0,
                 "owner": "alexandre-abrioux",
                 "repo": "golem-node",
                 "stars": 22,
@@ -1524,7 +1524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:09:18.961Z",
+    "last_updated": "2026-09-28T11:10:03.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-curated list of awesome projects and resources related to the Golem peer-to-peer computational resources marketplace.",
@@ -1536,7 +1536,7 @@
       "open_issues": 2,
       "owner": "golemfactory",
       "repo": "awesome-golem",
-      "stars": 244,
+      "stars": 245,
       "topics": [
         "awesome",
         "awesome-list",
