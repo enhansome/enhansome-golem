@@ -56,7 +56,7 @@ We want to extend the capabilities of Golem Network for GPU workloads. Project s
 
 ### golem-js - the JS SDK from Golem
 
-[golem-js](https://github.com/golemfactory/golem-js) ⭐ 41 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-03 is a library and set of developer tools and docs that are aimed to enable developers to create Golem applications running in Node.js or browser context.
+[golem-js](https://github.com/golemfactory/golem-js) ⭐ 42 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-03 is a library and set of developer tools and docs that are aimed to enable developers to create Golem applications running in Node.js or browser context.
 
 ### Jupyter on Golem
 
@@ -80,7 +80,7 @@ Emeth specializes in DeFi (Decentralized Finance) portfolio management and block
 
 * [Golem Docs](https://docs.golem.network/) - A manual for Golem (both for Requestors and Providers).
 * [Python API Reference](https://yapapi.readthedocs.io/) - Yapapi API Reference.
-* [Releases List](https://github.com/golemfactory/yagna/releases) ⭐ 2 | 🐛 0 | 🌐 Rust | 📅 2026-10-01 - GitHub releases of Yagna.
+* [Releases List](https://github.com/golemfactory/yagna/releases) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2026-10-01 - GitHub releases of Yagna.
 * [JS Requestor Quickstart](https://docs.golem.network/docs/quickstarts/js-quickstart) - Get started quickly and create your first tasks/request on Golem.
 * [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna) - Use the Yagna tag if you have an interesting question you'd like answered.
 

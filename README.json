@@ -49,7 +49,7 @@
                 "open_issues": 15,
                 "owner": "golemfactory",
                 "repo": "golem-js",
-                "stars": 41,
+                "stars": 42,
                 "topics": [
                   "distributed-computing",
                   "golem",
@@ -1524,7 +1524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:49:50.760Z",
+    "last_updated": "2026-10-03T10:00:25.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-curated list of awesome projects and resources related to the Golem peer-to-peer computational resources marketplace.",
