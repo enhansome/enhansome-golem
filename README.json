@@ -207,13 +207,13 @@
               "description": "Docker version of a node to help you get started running as a provider in a Docker container quick.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Dockerized Golem Network Provider Node",
                 "homepage": "https://hub.docker.com/r/aabrioux/golem-node",
                 "id": 322129277,
                 "language": "Dockerfile",
                 "license": "MIT",
-                "last_commit": "2026-10-02T09:32:35Z",
+                "last_commit": "2026-10-08T16:39:50Z",
                 "open_issues": 1,
                 "owner": "alexandre-abrioux",
                 "repo": "golem-node",
@@ -1524,7 +1524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T11:33:32.173Z",
+    "last_updated": "2026-10-09T11:28:21.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-curated list of awesome projects and resources related to the Golem peer-to-peer computational resources marketplace.",
