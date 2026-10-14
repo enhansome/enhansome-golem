@@ -41,7 +41,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 ## Network Statistics
 
 * [Golem Network Stats](https://stats.golem.network) - Statistics tracking tasks and provider resource utilization in the Golem Network.
-* [Golem Stats backend](https://github.com/cryptobench/golem-stats-backend) ⭐ 2 | 🐛 10 | 🌐 Python | 📅 2026-09-10 - Backend of the Golem Network Statistics page including API endpoint URLs.
+* [Golem Stats backend](https://github.com/cryptobench/golem-stats-backend) ⭐ 2 | 🐛 11 | 🌐 Python | 📅 2026-09-10 - Backend of the Golem Network Statistics page including API endpoint URLs.
 * [Stats API Documentation](https://docs.stats.golem.network/) - API endpoints that the Golem Network Stats page uses to display its data.
 
 ## Golem Projects
@@ -80,7 +80,7 @@ Emeth specializes in DeFi (Decentralized Finance) portfolio management and block
 
 * [Golem Docs](https://docs.golem.network/) - A manual for Golem (both for Requestors and Providers).
 * [Python API Reference](https://yapapi.readthedocs.io/) - Yapapi API Reference.
-* [Releases List](https://github.com/golemfactory/yagna/releases) ⭐ 4 | 🐛 2 | 🌐 Rust | 📅 2026-10-07 - GitHub releases of Yagna.
+* [Releases List](https://github.com/golemfactory/yagna/releases) ⭐ 4 | 🐛 3 | 🌐 Rust | 📅 2026-10-07 - GitHub releases of Yagna.
 * [JS Requestor Quickstart](https://docs.golem.network/docs/quickstarts/js-quickstart) - Get started quickly and create your first tasks/request on Golem.
 * [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna) - Use the Yagna tag if you have an interesting question you'd like answered.
 
@@ -247,4 +247,4 @@ Pull requests and issues with suggestions to Awesome Golem are welcome! Please r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
