@@ -1524,7 +1524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:32:31.005Z",
+    "last_updated": "2026-11-01T11:27:12.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-curated list of awesome projects and resources related to the Golem peer-to-peer computational resources marketplace.",
@@ -1536,7 +1536,7 @@
       "open_issues": 3,
       "owner": "golemfactory",
       "repo": "awesome-golem",
-      "stars": 245,
+      "stars": 246,
       "topics": [
         "awesome",
         "awesome-list",
