@@ -56,7 +56,7 @@ We want to extend the capabilities of Golem Network for GPU workloads. Project s
 
 ### golem-js - the JS SDK from Golem
 
-[golem-js](https://github.com/golemfactory/golem-js) ⭐ 42 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-03 is a library and set of developer tools and docs that are aimed to enable developers to create Golem applications running in Node.js or browser context.
+[golem-js](https://github.com/golemfactory/golem-js) ⭐ 42 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-08 is a library and set of developer tools and docs that are aimed to enable developers to create Golem applications running in Node.js or browser context.
 
 ### Jupyter on Golem
 
@@ -153,7 +153,7 @@ Pull requests and issues with suggestions to Awesome Golem are welcome! Please r
 
 #### Testing
 
-* [Golem Test Harness (Goth)](https://github.com/golemfactory/goth) ⭐ 11 | 🐛 92 | 🌐 Python | 📅 2026-01-08 - Tool with the purpose of speeding up your development process and making it more enjoyable for application creators.
+* [Golem Test Harness (Goth)](https://github.com/golemfactory/goth) ⭐ 11 | 🐛 92 | 🌐 Python | 📅 2026-11-08 - Tool with the purpose of speeding up your development process and making it more enjoyable for application creators.
 * [Golem SLATE](https://github.com/deutschklub/golem-slate) ⚠️ Archived - Open source repository for Golem SLATE described in the above Apps section.
 * [Golem CI](https://github.com/hhio618/golem-ci) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2021-01-07 - Decentralized task pipeline.
 * [ThorgPress](https://github.com/figurestudios/thorgpress) ⭐ 1 | 🐛 4 | 🌐 Shell | 📅 2022-06-19 - A tool to benchmark providers and unveil their true capabilities beyond what can be seen through the marketplace.
@@ -247,4 +247,4 @@ Pull requests and issues with suggestions to Awesome Golem are welcome! Please r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
