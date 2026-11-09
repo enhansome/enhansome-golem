@@ -7,34 +7,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Ray on Golem",
-              "description": "is an exciting integration with Ray, a distributed computing framework, to provide an easier way of accessing the Golem Network for Python developers.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 631954962,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2024-10-22T06:22:40Z",
-                "open_issues": 18,
-                "owner": "golemfactory",
-                "repo": "ray-on-golem",
-                "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:51:46.368Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Ray on Golem"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
               "title": "golem-js",
               "description": "is a library and set of developer tools and docs that are aimed to enable developers to create Golem applications running in Node.js or browser context.",
               "children": [],
@@ -45,7 +17,7 @@
                 "id": 293524572,
                 "language": "TypeScript",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-08T01:10:10Z",
+                "last_commit": "2026-11-08T17:39:46Z",
                 "open_issues": 15,
                 "owner": "golemfactory",
                 "repo": "golem-js",
@@ -1524,7 +1496,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T11:27:54.478Z",
+    "last_updated": "2026-11-09T13:14:59.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-curated list of awesome projects and resources related to the Golem peer-to-peer computational resources marketplace.",

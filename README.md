@@ -41,7 +41,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 ## Network Statistics
 
 * [Golem Network Stats](https://stats.golem.network) - Statistics tracking tasks and provider resource utilization in the Golem Network.
-* [Golem Stats backend](https://github.com/cryptobench/golem-stats-backend) ⭐ 2 | 🐛 11 | 🌐 Python | 📅 2026-09-10 - Backend of the Golem Network Statistics page including API endpoint URLs.
+* [Golem Stats backend](https://github.com/cryptobench/golem-stats-backend) - Backend of the Golem Network Statistics page including API endpoint URLs.
 * [Stats API Documentation](https://docs.stats.golem.network/) - API endpoints that the Golem Network Stats page uses to display its data.
 
 ## Golem Projects
@@ -52,7 +52,7 @@ We want to extend the capabilities of Golem Network for GPU workloads. Project s
 
 ### Ray on Golem
 
-[Ray on Golem](https://github.com/golemfactory/ray-on-golem) ⭐ 8 | 🐛 18 | 🌐 Python | 📅 2024-10-22 is an exciting integration with Ray, a distributed computing framework, to provide an easier way of accessing the Golem Network for Python developers.
+[Ray on Golem](https://github.com/golemfactory/ray-on-golem) is an exciting integration with Ray, a distributed computing framework, to provide an easier way of accessing the Golem Network for Python developers.
 
 ### golem-js - the JS SDK from Golem
 
@@ -247,4 +247,4 @@ Pull requests and issues with suggestions to Awesome Golem are welcome! Please r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
