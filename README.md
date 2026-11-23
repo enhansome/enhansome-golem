@@ -220,7 +220,7 @@ Pull requests and issues with suggestions to Awesome Golem are welcome! Please r
 
 #### RNG
 
-* [Entropythief](https://github.com/krunch3r76/entropythief) ⭐ 5 | 🐛 6 | 🌐 Python | 📅 2025-10-27 - Get random entropy at a steal of a rate from multiple providers utilizing the linux entropy source or Intel's RDRAND cpu instruction (inspired by Gandom).
+* [Entropythief](https://github.com/krunch3r76/entropythief) ⭐ 5 | 🐛 10 | 🌐 Python | 📅 2025-10-27 - Get random entropy at a steal of a rate from multiple providers utilizing the linux entropy source or Intel's RDRAND cpu instruction (inspired by Gandom).
 * [Gandom](https://github.com/rezahsnz/gandom) ⚠️ Archived - Extract random streams from providers. Supports two PRNGs, one based on Chaos machines and the other that makes use of Sodium.
 
 #### Password Recovery
@@ -247,4 +247,4 @@ Pull requests and issues with suggestions to Awesome Golem are welcome! Please r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
