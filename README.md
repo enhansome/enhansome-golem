@@ -93,7 +93,7 @@ Emeth specializes in DeFi (Decentralized Finance) portfolio management and block
 
 ### Monitoring
 
-* [Golem Provider dashboard](https://github.com/vciancio/golem-dashboard) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-29 - ReactJS dashboard made to quickly gather status from your provider nodes without having to SSH into them.
+* [Golem Provider dashboard](https://github.com/vciancio/golem-dashboard) ⭐ 5 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-24 - ReactJS dashboard made to quickly gather status from your provider nodes without having to SSH into them.
 * [Golem Provider dashboard backend / GolemBar](https://github.com/vciancio/golem-node-server) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2021-06-13 - Flask backend that collects the data from the provider that's then used with the dashboard project above.
 
 ### Provisioning
@@ -247,4 +247,4 @@ Pull requests and issues with suggestions to Awesome Golem are welcome! Please r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._

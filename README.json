@@ -130,8 +130,8 @@
                 "id": 349884309,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-29T04:03:54Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-24T23:30:26Z",
+                "open_issues": 2,
                 "owner": "vciancio",
                 "repo": "golem-dashboard",
                 "stars": 5,
@@ -1496,7 +1496,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T15:10:05.921Z",
+    "last_updated": "2026-11-25T14:50:12.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-curated list of awesome projects and resources related to the Golem peer-to-peer computational resources marketplace.",
